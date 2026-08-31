@@ -1,0 +1,7 @@
+pandas>=3.0
+numpy>=2.0
+requests>=2.30
+yfinance>=1.7
+lxml>=5.0
+beautifulsoup4>=4.12
+truststore>=0.9

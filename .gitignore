@@ -1,0 +1,22 @@
+# 가상환경
+dtp/
+venv/
+.venv/
+
+# 파이썬
+__pycache__/
+*.pyc
+*.pyo
+
+# 데이터 (파이프라인으로 재생성 가능, 용량 큼)
+data/
+
+# 저작권 있는 원본 논문 PDF는 공개 저장소에 올리지 않음
+ssrn-*.pdf
+
+# 노트북 체크포인트
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
